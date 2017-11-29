@@ -309,6 +309,7 @@ input[type=submit] {
 	}
 	#main-container {
 		padding-top: 0;
+		overflow: auto;
 	}
 	#logo, .work, .auth-image {
 		width: 100%;
