@@ -1,3 +1,3 @@
 # Responsive-Portfolio
-Responsive Portfolio assignment. 
-Enhance the Basic Portfolio with a mobile-responsive layout. 
+Responsive Portfolio is enhancement of the Basic Portfolio with a mobile-repsonsive layout.
+
